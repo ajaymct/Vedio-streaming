@@ -1,0 +1,1 @@
+<footer class="footer text-right"> {{trans('words.copyright')}} © {{date('Y')}} . {{trans('words.all_rights')}}. </footer>

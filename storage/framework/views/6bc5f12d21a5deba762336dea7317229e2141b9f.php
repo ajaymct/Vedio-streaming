@@ -1,0 +1,1 @@
+<footer class="footer text-right"> <?php echo e(trans('words.copyright')); ?> © <?php echo e(date('Y')); ?> . <?php echo e(trans('words.all_rights')); ?>. </footer><?php /**PATH C:\xampp\htdocs\Video Script Package V1.3\FOR FIRST TIME BUYER\video_script\resources\views/admin/copyright.blade.php ENDPATH**/ ?>
